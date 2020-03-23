@@ -1,0 +1,16 @@
+curl -u admin:DVa6YmM5uS -iX POST http://34.71.214.77/artifactory/api/seurity/token -d 'username=admin' -d 'scope=member-of-groups:readers'
+HTTP/1.1 200 OK
+Date: Sun, 22 Mar 2020 12:43:25 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Server: Artifactory/6.16.0
+X-Artifactory-Id: a37313bb50ed809dd5a7d66de2f29bcba587bd05
+X-Artifactory-Node-Id: node-ef348699c89f
+
+{
+  "scope" : "member-of-groups:readers api:*",
+  "access_token" : "eyJ2ZXIiOiIyIiwidHlwIjoiSldUIiwiYWxnIjoiUlMyNTYiLCJraWQiOiJJY20tN3liNlRtTUM5emdBRlctZUFtS2xhMG5hX1BvYm1IV1IyTE9wV0JjIn0.eyJzdWIiOiJqZnJ0QDAxZDkzMnF0ejV6N3I4MTFkMTlrcTYwOGI4XC91c2Vyc1wvYWRtaW4iLCJzY3AiOiJtZW1iZXItb2YtZ3JvdXBzOnJlYWRlcnMgYXBpOioiLCJhdWQiOiJqZnJ0QDAxZDkzMnF0ejV6N3I4MTFkMTlrcTYwOGI4IiwiaXNzIjoiamZydEAwMWQ5MzJxdHo1ejdyODExZDE5a3E2MDhiOFwvdXNlcnNcL2FkbWluIiwiZXhwIjoxNTg0ODg0NjA1LCJpYXQiOjE1ODQ4ODEwMDUsImp0aSI6ImM0MjY1NWYwLTViZDctNDAyMi04OWZmLWU0MDQ2MWI0Y2E4MSJ9.CdSCIVquBPk3HWcabC4n-TILo4zIsKupVzKZZaIdZHC7bddfY12GW32zta4dSGwx7jHCONNujZZBCXfGDHSxyg5N8CxHVrLWxfVV3nLp8jNKt0C3xmjGc7VnBU46lLnHKKschMz6v1IT-mWgrXwr3vbsfYszLB03KVvXyr-UjN3BY1K9Kurk8Tm8LmuuIVRX8-GmPoNd98xbKhMVNK_yHRg4l9vBA3MFsSZLbb6WHUo0MxmgjLRBWnXa75cr-g1Odo7wL5QREARJlvzOQYUObcZeAskcy-gRiE69sa4QPUxZ7w9n7MT2KBh6HzG80qyWbqzvje9WDgP7CcLCtFyoPQ",
+  "expires_in" : 3600,
+  "token_type" : "Bearer"
+}

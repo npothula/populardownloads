@@ -1,0 +1,486 @@
+File stats for jcenter-cache/org/apache/maven/plugins/maven-compiler-plugin/3.1/maven-compiler-plugin-3.1.pom ...
+2020/03/22 06:02:48 {
+  "downloadCount": 3,
+  "lastDownloaded": 1555974332276,
+  "lastDownloadedBy": "anonymous",
+  "remoteDownloadCount": 0,
+  "remoteLastDownloaded": 0,
+  "uri": "http://34.71.214.77:80/artifactory/jcenter-cache/org/apache/maven/plugins/maven-compiler-plugin/3.1/maven-compiler-plugin-3.1.pom"
+}
+2020/03/22 06:02:48 -1
+2020/03/22 06:02:48 File stats for jcenter-cache/org/apache/maven/surefire/maven-surefire-common/2.12.4/maven-surefire-common-2.12.4.pom ...
+2020/03/22 06:02:49 {
+  "downloadCount": 3,
+  "lastDownloaded": 1555974338858,
+  "lastDownloadedBy": "anonymous",
+  "remoteDownloadCount": 0,
+  "remoteLastDownloaded": 0,
+  "uri": "http://34.71.214.77:80/artifactory/jcenter-cache/org/apache/maven/surefire/maven-surefire-common/2.12.4/maven-surefire-common-2.12.4.pom"
+}
+2020/03/22 06:02:49 -1
+2020/03/22 06:02:49 File stats for jcenter-cache/org/apache/maven/maven-plugin-registry/2.0.9/maven-plugin-registry-2.0.9.jar ...
+2020/03/22 06:02:49 {
+  "downloadCount": 0,
+  "lastDownloaded": 0,
+  "remoteDownloadCount": 0,
+  "remoteLastDownloaded": 0,
+  "uri": "http://34.71.214.77:80/artifactory/jcenter-cache/org/apache/maven/maven-plugin-registry/2.0.9/maven-plugin-registry-2.0.9.jar"
+}
+2020/03/22 06:02:49 -1
+2020/03/22 06:02:49 File stats for jcenter-cache/org/apache/maven/surefire/surefire-grouper/2.12.4/surefire-grouper-2.12.4.pom ...
+2020/03/22 06:02:49 {
+  "downloadCount": 3,
+  "lastDownloaded": 1555974341497,
+  "lastDownloadedBy": "anonymous",
+  "remoteDownloadCount": 0,
+  "remoteLastDownloaded": 0,
+  "uri": "http://34.71.214.77:80/artifactory/jcenter-cache/org/apache/maven/surefire/surefire-grouper/2.12.4/surefire-grouper-2.12.4.pom"
+}
+2020/03/22 06:02:49 -1
+2020/03/22 06:02:49 File stats for jcenter-cache/org/apache/maven/plugins/maven-surefire-plugin/2.12.4/maven-surefire-plugin-2.12.4.jar ...
+2020/03/22 06:02:49 {
+  "downloadCount": 1,
+  "lastDownloaded": 1555974333096,
+  "lastDownloadedBy": "anonymous",
+  "remoteDownloadCount": 0,
+  "remoteLastDownloaded": 0,
+  "uri": "http://34.71.214.77:80/artifactory/jcenter-cache/org/apache/maven/plugins/maven-surefire-plugin/2.12.4/maven-surefire-plugin-2.12.4.jar"
+}
+2020/03/22 06:02:49 -1
+2020/03/22 06:02:49 File stats for jcenter-cache/org/apache/maven/maven/3.0/maven-3.0.pom ...
+2020/03/22 06:02:49 {
+  "downloadCount": 3,
+  "lastDownloaded": 1555974342040,
+  "lastDownloadedBy": "anonymous",
+  "remoteDownloadCount": 0,
+  "remoteLastDownloaded": 0,
+  "uri": "http://34.71.214.77:80/artifactory/jcenter-cache/org/apache/maven/maven/3.0/maven-3.0.pom"
+}
+2020/03/22 06:02:49 -1
+2020/03/22 06:02:49 File stats for jcenter-cache/org/apache/maven/surefire/surefire-testng-utils/2.12.4/surefire-testng-utils-2.12.4.pom ...
+2020/03/22 06:02:50 {
+  "downloadCount": 3,
+  "lastDownloaded": 1555974341273,
+  "lastDownloadedBy": "anonymous",
+  "remoteDownloadCount": 0,
+  "remoteLastDownloaded": 0,
+  "uri": "http://34.71.214.77:80/artifactory/jcenter-cache/org/apache/maven/surefire/surefire-testng-utils/2.12.4/surefire-testng-utils-2.12.4.pom"
+}
+2020/03/22 06:02:50 -1
+2020/03/22 06:02:50 File stats for jcenter-cache/org/apache/maven/maven-parent/4/maven-parent-4.pom ...
+2020/03/22 06:02:50 {
+  "downloadCount": 3,
+  "lastDownloaded": 1555974342989,
+  "lastDownloadedBy": "anonymous",
+  "remoteDownloadCount": 0,
+  "remoteLastDownloaded": 0,
+  "uri": "http://34.71.214.77:80/artifactory/jcenter-cache/org/apache/maven/maven-parent/4/maven-parent-4.pom"
+}
+2020/03/22 06:02:50 -1
+2020/03/22 06:02:50 File stats for jcenter-cache/org/apache/maven/surefire/surefire-api/2.12.4/surefire-api-2.12.4.jar ...
+2020/03/22 06:02:50 {
+  "downloadCount": 1,
+  "lastDownloaded": 1555974339859,
+  "lastDownloadedBy": "anonymous",
+  "remoteDownloadCount": 0,
+  "remoteLastDownloaded": 0,
+  "uri": "http://34.71.214.77:80/artifactory/jcenter-cache/org/apache/maven/surefire/surefire-api/2.12.4/surefire-api-2.12.4.jar"
+}
+2020/03/22 06:02:50 -1
+2020/03/22 06:02:50 File stats for jcenter-cache/org/apache/maven/maven-plugin-descriptor/2.0.9/maven-plugin-descriptor-2.0.9.jar ...
+2020/03/22 06:02:50 {
+  "downloadCount": 0,
+  "lastDownloaded": 0,
+  "remoteDownloadCount": 0,
+  "remoteLastDownloaded": 0,
+  "uri": "http://34.71.214.77:80/artifactory/jcenter-cache/org/apache/maven/maven-plugin-descriptor/2.0.9/maven-plugin-descriptor-2.0.9.jar"
+}
+2020/03/22 06:02:50 -1
+2020/03/22 06:02:50 File stats for jcenter-cache/org/apache/maven/wagon/wagon-provider-api/1.0-beta-2/wagon-provider-api-1.0-beta-2.pom ...
+2020/03/22 06:02:51 {
+  "downloadCount": 3,
+  "lastDownloaded": 1555974342632,
+  "lastDownloadedBy": "anonymous",
+  "remoteDownloadCount": 0,
+  "remoteLastDownloaded": 0,
+  "uri": "http://34.71.214.77:80/artifactory/jcenter-cache/org/apache/maven/wagon/wagon-provider-api/1.0-beta-2/wagon-provider-api-1.0-beta-2.pom"
+}
+2020/03/22 06:02:51 -1
+2020/03/22 06:02:51 File stats for jcenter-cache/org/apache/maven/surefire/surefire-junit3/2.12.4/surefire-junit3-2.12.4.jar ...
+2020/03/22 06:02:51 {
+  "downloadCount": 1,
+  "lastDownloaded": 1555974350056,
+  "lastDownloadedBy": "anonymous",
+  "remoteDownloadCount": 0,
+  "remoteLastDownloaded": 0,
+  "uri": "http://34.71.214.77:80/artifactory/jcenter-cache/org/apache/maven/surefire/surefire-junit3/2.12.4/surefire-junit3-2.12.4.jar"
+}
+2020/03/22 06:02:51 -1
+2020/03/22 06:02:51 File stats for jcenter-cache/org/apache/maven/maven-plugin-api/2.0.8/maven-plugin-api-2.0.8.pom ...
+2020/03/22 06:02:51 {
+  "downloadCount": 3,
+  "lastDownloaded": 1555974344483,
+  "lastDownloadedBy": "anonymous",
+  "remoteDownloadCount": 0,
+  "remoteLastDownloaded": 0,
+  "uri": "http://34.71.214.77:80/artifactory/jcenter-cache/org/apache/maven/maven-plugin-api/2.0.8/maven-plugin-api-2.0.8.pom"
+}
+2020/03/22 06:02:51 -1
+2020/03/22 06:02:51 File stats for jcenter-cache/org/apache/maven/plugin-tools/maven-plugin-annotations/3.1/maven-plugin-annotations-3.1.jar ...
+2020/03/22 06:02:51 {
+  "downloadCount": 1,
+  "lastDownloaded": 1555974339975,
+  "lastDownloadedBy": "anonymous",
+  "remoteDownloadCount": 0,
+  "remoteLastDownloaded": 0,
+  "uri": "http://34.71.214.77:80/artifactory/jcenter-cache/org/apache/maven/plugin-tools/maven-plugin-annotations/3.1/maven-plugin-annotations-3.1.jar"
+}
+2020/03/22 06:02:51 -1
+2020/03/22 06:02:51 File stats for jcenter-cache/org/apache/maven/maven-error-diagnostics/2.0.9/maven-error-diagnostics-2.0.9.jar ...
+2020/03/22 06:02:52 {
+  "downloadCount": 0,
+  "lastDownloaded": 0,
+  "remoteDownloadCount": 0,
+  "remoteLastDownloaded": 0,
+  "uri": "http://34.71.214.77:80/artifactory/jcenter-cache/org/apache/maven/maven-error-diagnostics/2.0.9/maven-error-diagnostics-2.0.9.jar"
+}
+2020/03/22 06:02:52 -1
+2020/03/22 06:02:52 File stats for jcenter-cache/org/apache/maven/surefire/surefire-junit3/2.12.4/surefire-junit3-2.12.4.pom ...
+2020/03/22 06:02:52 {
+  "downloadCount": 3,
+  "lastDownloaded": 1555974349862,
+  "lastDownloadedBy": "anonymous",
+  "remoteDownloadCount": 0,
+  "remoteLastDownloaded": 0,
+  "uri": "http://34.71.214.77:80/artifactory/jcenter-cache/org/apache/maven/surefire/surefire-junit3/2.12.4/surefire-junit3-2.12.4.pom"
+}
+2020/03/22 06:02:52 -1
+2020/03/22 06:02:52 File stats for jcenter-cache/org/apache/maven/maven-model/2.0.8/maven-model-2.0.8.pom ...
+2020/03/22 06:02:52 {
+  "downloadCount": 3,
+  "lastDownloaded": 1555974344074,
+  "lastDownloadedBy": "anonymous",
+  "remoteDownloadCount": 0,
+  "remoteLastDownloaded": 0,
+  "uri": "http://34.71.214.77:80/artifactory/jcenter-cache/org/apache/maven/maven-model/2.0.8/maven-model-2.0.8.pom"
+}
+2020/03/22 06:02:52 -1
+2020/03/22 06:02:52 File stats for jcenter-cache/org/apache/maven/maven-model/2.0.9/maven-model-2.0.9.jar ...
+2020/03/22 06:02:52 {
+  "downloadCount": 0,
+  "lastDownloaded": 0,
+  "remoteDownloadCount": 0,
+  "remoteLastDownloaded": 0,
+  "uri": "http://34.71.214.77:80/artifactory/jcenter-cache/org/apache/maven/maven-model/2.0.9/maven-model-2.0.9.jar"
+}
+2020/03/22 06:02:52 -1
+2020/03/22 06:02:52 File stats for jcenter-cache/org/apache/maven/surefire/surefire-providers/2.12.4/surefire-providers-2.12.4.pom ...
+2020/03/22 06:02:52 {
+  "downloadCount": 3,
+  "lastDownloaded": 1555974341029,
+  "lastDownloadedBy": "anonymous",
+  "remoteDownloadCount": 0,
+  "remoteLastDownloaded": 0,
+  "uri": "http://34.71.214.77:80/artifactory/jcenter-cache/org/apache/maven/surefire/surefire-providers/2.12.4/surefire-providers-2.12.4.pom"
+}
+2020/03/22 06:02:52 -1
+2020/03/22 06:02:52 File stats for jcenter-cache/org/apache/maven/maven-parent/15/maven-parent-15.pom ...
+2020/03/22 06:02:52 {
+  "downloadCount": 3,
+  "lastDownloaded": 1555974342234,
+  "lastDownloadedBy": "anonymous",
+  "remoteDownloadCount": 0,
+  "remoteLastDownloaded": 0,
+  "uri": "http://34.71.214.77:80/artifactory/jcenter-cache/org/apache/maven/maven-parent/15/maven-parent-15.pom"
+}
+2020/03/22 06:02:52 -1
+2020/03/22 06:02:52 File stats for jcenter-cache/org/apache/maven/maven-settings/2.0.9/maven-settings-2.0.9.jar ...
+2020/03/22 06:02:53 {
+  "downloadCount": 0,
+  "lastDownloaded": 0,
+  "remoteDownloadCount": 0,
+  "remoteLastDownloaded": 0,
+  "uri": "http://34.71.214.77:80/artifactory/jcenter-cache/org/apache/maven/maven-settings/2.0.9/maven-settings-2.0.9.jar"
+}
+2020/03/22 06:02:53 -1
+2020/03/22 06:02:53 File stats for jcenter-cache/org/apache/maven/surefire/surefire-grouper/2.12.4/surefire-grouper-2.12.4.jar ...
+2020/03/22 06:02:53 {
+  "downloadCount": 1,
+  "lastDownloaded": 1555974345021,
+  "lastDownloadedBy": "anonymous",
+  "remoteDownloadCount": 0,
+  "remoteLastDownloaded": 0,
+  "uri": "http://34.71.214.77:80/artifactory/jcenter-cache/org/apache/maven/surefire/surefire-grouper/2.12.4/surefire-grouper-2.12.4.jar"
+}
+2020/03/22 06:02:53 -1
+2020/03/22 06:02:53 File stats for jcenter-cache/org/apache/maven/surefire/surefire/2.12.4/surefire-2.12.4.pom ...
+2020/03/22 06:02:53 {
+  "downloadCount": 3,
+  "lastDownloaded": 1555974332931,
+  "lastDownloadedBy": "anonymous",
+  "remoteDownloadCount": 0,
+  "remoteLastDownloaded": 0,
+  "uri": "http://34.71.214.77:80/artifactory/jcenter-cache/org/apache/maven/surefire/surefire/2.12.4/surefire-2.12.4.pom"
+}
+2020/03/22 06:02:53 -1
+2020/03/22 06:02:53 File stats for jcenter-cache/org/apache/maven/maven/2.0.8/maven-2.0.8.pom ...
+2020/03/22 06:02:53 {
+  "downloadCount": 3,
+  "lastDownloaded": 1555974343721,
+  "lastDownloadedBy": "anonymous",
+  "remoteDownloadCount": 0,
+  "remoteLastDownloaded": 0,
+  "uri": "http://34.71.214.77:80/artifactory/jcenter-cache/org/apache/maven/maven/2.0.8/maven-2.0.8.pom"
+}
+2020/03/22 06:02:53 -1
+2020/03/22 06:02:53 File stats for jcenter-cache/org/apache/maven/maven-toolchain/2.0.9/maven-toolchain-2.0.9.jar ...
+2020/03/22 06:02:53 {
+  "downloadCount": 0,
+  "lastDownloaded": 0,
+  "remoteDownloadCount": 0,
+  "remoteLastDownloaded": 0,
+  "uri": "http://34.71.214.77:80/artifactory/jcenter-cache/org/apache/maven/maven-toolchain/2.0.9/maven-toolchain-2.0.9.jar"
+}
+2020/03/22 06:02:53 -1
+2020/03/22 06:02:53 File stats for jcenter-cache/org/apache/maven/plugins/maven-compiler-plugin/3.1/maven-compiler-plugin-3.1.jar ...
+2020/03/22 06:02:53 {
+  "downloadCount": 1,
+  "lastDownloaded": 1555974332511,
+  "lastDownloadedBy": "anonymous",
+  "remoteDownloadCount": 0,
+  "remoteLastDownloaded": 0,
+  "uri": "http://34.71.214.77:80/artifactory/jcenter-cache/org/apache/maven/plugins/maven-compiler-plugin/3.1/maven-compiler-plugin-3.1.jar"
+}
+2020/03/22 06:02:53 -1
+2020/03/22 06:02:53 File stats for jcenter-cache/org/apache/maven/maven-project/2.0.8/maven-project-2.0.8.pom ...
+2020/03/22 06:02:53 {
+  "downloadCount": 3,
+  "lastDownloaded": 1555974344270,
+  "lastDownloadedBy": "anonymous",
+  "remoteDownloadCount": 0,
+  "remoteLastDownloaded": 0,
+  "uri": "http://34.71.214.77:80/artifactory/jcenter-cache/org/apache/maven/maven-project/2.0.8/maven-project-2.0.8.pom"
+}
+2020/03/22 06:02:53 -1
+2020/03/22 06:02:53 File stats for jcenter-cache/org/apache/maven/maven-parent/6/maven-parent-6.pom ...
+2020/03/22 06:02:54 {
+  "downloadCount": 3,
+  "lastDownloaded": 1555974343893,
+  "lastDownloadedBy": "anonymous",
+  "remoteDownloadCount": 0,
+  "remoteLastDownloaded": 0,
+  "uri": "http://34.71.214.77:80/artifactory/jcenter-cache/org/apache/maven/maven-parent/6/maven-parent-6.pom"
+}
+2020/03/22 06:02:54 -1
+2020/03/22 06:02:54 File stats for jcenter-cache/org/apache/maven/surefire/surefire-booter/2.12.4/surefire-booter-2.12.4.jar ...
+2020/03/22 06:02:54 {
+  "downloadCount": 1,
+  "lastDownloaded": 1555974339701,
+  "lastDownloadedBy": "anonymous",
+  "remoteDownloadCount": 0,
+  "remoteLastDownloaded": 0,
+  "uri": "http://34.71.214.77:80/artifactory/jcenter-cache/org/apache/maven/surefire/surefire-booter/2.12.4/surefire-booter-2.12.4.jar"
+}
+2020/03/22 06:02:54 -1
+2020/03/22 06:02:54 File stats for jcenter-cache/org/apache/maven/maven-profile/2.0.9/maven-profile-2.0.9.jar ...
+2020/03/22 06:02:54 {
+  "downloadCount": 0,
+  "lastDownloaded": 0,
+  "remoteDownloadCount": 0,
+  "remoteLastDownloaded": 0,
+  "uri": "http://34.71.214.77:80/artifactory/jcenter-cache/org/apache/maven/maven-profile/2.0.9/maven-profile-2.0.9.jar"
+}
+2020/03/22 06:02:54 -1
+2020/03/22 06:02:54 File stats for jcenter-cache/org/apache/maven/maven-artifact-manager/2.0.9/maven-artifact-manager-2.0.9.jar ...
+2020/03/22 06:02:54 {
+  "downloadCount": 0,
+  "lastDownloaded": 0,
+  "remoteDownloadCount": 0,
+  "remoteLastDownloaded": 0,
+  "uri": "http://34.71.214.77:80/artifactory/jcenter-cache/org/apache/maven/maven-artifact-manager/2.0.9/maven-artifact-manager-2.0.9.jar"
+}
+2020/03/22 06:02:54 -1
+2020/03/22 06:02:54 File stats for jcenter-cache/org/apache/maven/maven-monitor/2.0.9/maven-monitor-2.0.9.jar ...
+2020/03/22 06:02:54 {
+  "downloadCount": 0,
+  "lastDownloaded": 0,
+  "remoteDownloadCount": 0,
+  "remoteLastDownloaded": 0,
+  "uri": "http://34.71.214.77:80/artifactory/jcenter-cache/org/apache/maven/maven-monitor/2.0.9/maven-monitor-2.0.9.jar"
+}
+2020/03/22 06:02:54 -1
+2020/03/22 06:02:54 File stats for jcenter-cache/org/apache/maven/plugin-tools/maven-plugin-tools/3.1/maven-plugin-tools-3.1.pom ...
+2020/03/22 06:02:54 {
+  "downloadCount": 3,
+  "lastDownloaded": 1555974339286,
+  "lastDownloadedBy": "anonymous",
+  "remoteDownloadCount": 0,
+  "remoteLastDownloaded": 0,
+  "uri": "http://34.71.214.77:80/artifactory/jcenter-cache/org/apache/maven/plugin-tools/maven-plugin-tools/3.1/maven-plugin-tools-3.1.pom"
+}
+2020/03/22 06:02:54 -1
+2020/03/22 06:02:54 File stats for jcenter-cache/org/apache/maven/plugin-tools/maven-plugin-annotations/3.1/maven-plugin-annotations-3.1.pom ...
+2020/03/22 06:02:54 {
+  "downloadCount": 3,
+  "lastDownloaded": 1555974339048,
+  "lastDownloadedBy": "anonymous",
+  "remoteDownloadCount": 0,
+  "remoteLastDownloaded": 0,
+  "uri": "http://34.71.214.77:80/artifactory/jcenter-cache/org/apache/maven/plugin-tools/maven-plugin-annotations/3.1/maven-plugin-annotations-3.1.pom"
+}
+2020/03/22 06:02:54 -1
+2020/03/22 06:02:54 File stats for jcenter-cache/org/apache/maven/maven-plugin-api/2.0.9/maven-plugin-api-2.0.9.jar ...
+2020/03/22 06:02:54 {
+  "downloadCount": 0,
+  "lastDownloaded": 0,
+  "remoteDownloadCount": 0,
+  "remoteLastDownloaded": 0,
+  "uri": "http://34.71.214.77:80/artifactory/jcenter-cache/org/apache/maven/maven-plugin-api/2.0.9/maven-plugin-api-2.0.9.jar"
+}
+2020/03/22 06:02:54 -1
+2020/03/22 06:02:54 File stats for jcenter-cache/org/apache/maven/maven-artifact/3.0/maven-artifact-3.0.pom ...
+2020/03/22 06:02:55 {
+  "downloadCount": 3,
+  "lastDownloaded": 1555974341818,
+  "lastDownloadedBy": "anonymous",
+  "remoteDownloadCount": 0,
+  "remoteLastDownloaded": 0,
+  "uri": "http://34.71.214.77:80/artifactory/jcenter-cache/org/apache/maven/maven-artifact/3.0/maven-artifact-3.0.pom"
+}
+2020/03/22 06:02:55 -1
+2020/03/22 06:02:55 File stats for jcenter-cache/org/apache/maven/wagon/wagon-provider-api/1.0-beta-2/wagon-provider-api-1.0-beta-2.jar ...
+2020/03/22 06:02:55 {
+  "downloadCount": 1,
+  "lastDownloaded": 1555974345382,
+  "lastDownloadedBy": "anonymous",
+  "remoteDownloadCount": 0,
+  "remoteLastDownloaded": 0,
+  "uri": "http://34.71.214.77:80/artifactory/jcenter-cache/org/apache/maven/wagon/wagon-provider-api/1.0-beta-2/wagon-provider-api-1.0-beta-2.jar"
+}
+2020/03/22 06:02:55 -1
+2020/03/22 06:02:55 File stats for jcenter-cache/org/apache/maven/surefire/surefire-testng/2.12.4/surefire-testng-2.12.4.pom ...
+2020/03/22 06:02:55 {
+  "downloadCount": 3,
+  "lastDownloaded": 1555974340833,
+  "lastDownloadedBy": "anonymous",
+  "remoteDownloadCount": 0,
+  "remoteLastDownloaded": 0,
+  "uri": "http://34.71.214.77:80/artifactory/jcenter-cache/org/apache/maven/surefire/surefire-testng/2.12.4/surefire-testng-2.12.4.pom"
+}
+2020/03/22 06:02:55 -1
+2020/03/22 06:02:55 File stats for jcenter-cache/org/apache/maven/maven-core/2.0.9/maven-core-2.0.9.jar ...
+2020/03/22 06:02:55 {
+  "downloadCount": 0,
+  "lastDownloaded": 0,
+  "remoteDownloadCount": 0,
+  "remoteLastDownloaded": 0,
+  "uri": "http://34.71.214.77:80/artifactory/jcenter-cache/org/apache/maven/maven-core/2.0.9/maven-core-2.0.9.jar"
+}
+2020/03/22 06:02:55 -1
+2020/03/22 06:02:55 File stats for jcenter-cache/org/apache/maven/wagon/wagon/1.0-beta-2/wagon-1.0-beta-2.pom ...
+2020/03/22 06:02:55 {
+  "downloadCount": 3,
+  "lastDownloaded": 1555974342823,
+  "lastDownloadedBy": "anonymous",
+  "remoteDownloadCount": 0,
+  "remoteLastDownloaded": 0,
+  "uri": "http://34.71.214.77:80/artifactory/jcenter-cache/org/apache/maven/wagon/wagon/1.0-beta-2/wagon-1.0-beta-2.pom"
+}
+2020/03/22 06:02:55 -1
+2020/03/22 06:02:55 File stats for jcenter-cache/org/apache/maven/surefire/surefire-api/2.12.4/surefire-api-2.12.4.pom ...
+2020/03/22 06:02:55 {
+  "downloadCount": 3,
+  "lastDownloaded": 1555974338595,
+  "lastDownloadedBy": "anonymous",
+  "remoteDownloadCount": 0,
+  "remoteLastDownloaded": 0,
+  "uri": "http://34.71.214.77:80/artifactory/jcenter-cache/org/apache/maven/surefire/surefire-api/2.12.4/surefire-api-2.12.4.pom"
+}
+2020/03/22 06:02:55 -1
+2020/03/22 06:02:55 File stats for jcenter-cache/org/apache/maven/surefire/surefire-testng/2.12.4/surefire-testng-2.12.4.jar ...
+2020/03/22 06:02:55 {
+  "downloadCount": 1,
+  "lastDownloaded": 1555974344996,
+  "lastDownloadedBy": "anonymous",
+  "remoteDownloadCount": 0,
+  "remoteLastDownloaded": 0,
+  "uri": "http://34.71.214.77:80/artifactory/jcenter-cache/org/apache/maven/surefire/surefire-testng/2.12.4/surefire-testng-2.12.4.jar"
+}
+2020/03/22 06:02:55 -1
+2020/03/22 06:02:55 File stats for jcenter-cache/org/apache/maven/maven-repository-metadata/2.0.9/maven-repository-metadata-2.0.9.jar ...
+2020/03/22 06:02:56 {
+  "downloadCount": 0,
+  "lastDownloaded": 0,
+  "remoteDownloadCount": 0,
+  "remoteLastDownloaded": 0,
+  "uri": "http://34.71.214.77:80/artifactory/jcenter-cache/org/apache/maven/maven-repository-metadata/2.0.9/maven-repository-metadata-2.0.9.jar"
+}
+2020/03/22 06:02:56 -1
+2020/03/22 06:02:56 File stats for jcenter-cache/org/apache/maven/maven-plugin-parameter-documenter/2.0.9/maven-plugin-parameter-documenter-2.0.9.jar ...
+2020/03/22 06:02:56 {
+  "downloadCount": 0,
+  "lastDownloaded": 0,
+  "remoteDownloadCount": 0,
+  "remoteLastDownloaded": 0,
+  "uri": "http://34.71.214.77:80/artifactory/jcenter-cache/org/apache/maven/maven-plugin-parameter-documenter/2.0.9/maven-plugin-parameter-documenter-2.0.9.jar"
+}
+2020/03/22 06:02:56 -1
+2020/03/22 06:02:56 File stats for jcenter-cache/org/apache/maven/plugins/maven-surefire-plugin/2.12.4/maven-surefire-plugin-2.12.4.pom ...
+2020/03/22 06:02:56 {
+  "downloadCount": 3,
+  "lastDownloaded": 1555974332717,
+  "lastDownloadedBy": "anonymous",
+  "remoteDownloadCount": 0,
+  "remoteLastDownloaded": 0,
+  "uri": "http://34.71.214.77:80/artifactory/jcenter-cache/org/apache/maven/plugins/maven-surefire-plugin/2.12.4/maven-surefire-plugin-2.12.4.pom"
+}
+2020/03/22 06:02:56 -1
+2020/03/22 06:02:56 File stats for jcenter-cache/org/apache/maven/surefire/maven-surefire-common/2.12.4/maven-surefire-common-2.12.4.jar ...
+2020/03/22 06:02:56 {
+  "downloadCount": 1,
+  "lastDownloaded": 1555974340421,
+  "lastDownloadedBy": "anonymous",
+  "remoteDownloadCount": 0,
+  "remoteLastDownloaded": 0,
+  "uri": "http://34.71.214.77:80/artifactory/jcenter-cache/org/apache/maven/surefire/maven-surefire-common/2.12.4/maven-surefire-common-2.12.4.jar"
+}
+2020/03/22 06:02:56 -1
+2020/03/22 06:02:56 File stats for jcenter-cache/org/apache/maven/surefire/surefire-testng-utils/2.12.4/surefire-testng-utils-2.12.4.jar ...
+2020/03/22 06:02:56 {
+  "downloadCount": 1,
+  "lastDownloaded": 1555974344973,
+  "lastDownloadedBy": "anonymous",
+  "remoteDownloadCount": 0,
+  "remoteLastDownloaded": 0,
+  "uri": "http://34.71.214.77:80/artifactory/jcenter-cache/org/apache/maven/surefire/surefire-testng-utils/2.12.4/surefire-testng-utils-2.12.4.jar"
+}
+2020/03/22 06:02:56 -1
+2020/03/22 06:02:56 File stats for jcenter-cache/org/apache/maven/maven-artifact/2.0.8/maven-artifact-2.0.8.pom ...
+2020/03/22 06:02:56 {
+  "downloadCount": 3,
+  "lastDownloaded": 1555974343536,
+  "lastDownloadedBy": "anonymous",
+  "remoteDownloadCount": 0,
+  "remoteLastDownloaded": 0,
+  "uri": "http://34.71.214.77:80/artifactory/jcenter-cache/org/apache/maven/maven-artifact/2.0.8/maven-artifact-2.0.8.pom"
+}
+2020/03/22 06:02:56 -1
+2020/03/22 06:02:56 File stats for jcenter-cache/org/apache/maven/maven-project/2.0.9/maven-project-2.0.9.jar ...
+2020/03/22 06:02:56 {
+  "downloadCount": 0,
+  "lastDownloaded": 0,
+  "remoteDownloadCount": 0,
+  "remoteLastDownloaded": 0,
+  "uri": "http://34.71.214.77:80/artifactory/jcenter-cache/org/apache/maven/maven-project/2.0.9/maven-project-2.0.9.jar"
+}
+2020/03/22 06:02:56 -1
+2020/03/22 06:02:56 File stats for jcenter-cache/org/apache/maven/surefire/surefire-booter/2.12.4/surefire-booter-2.12.4.pom ...
+2020/03/22 06:02:56 {
+  "downloadCount": 3,
+  "lastDownloaded": 1555974338413,
+  "lastDownloadedBy": "anonymous",
+  "remoteDownloadCount": 0,
+  "remoteLastDownloaded": 0,
+  "uri": "http://34.71.214.77:80/artifactory/jcenter-cache/org/apache/maven/surefire/surefire-booter/2.12.4/surefire-booter-2.12.4.pom"
+}
+2020/03/22 06:02:56 -1

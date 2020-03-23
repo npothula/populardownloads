@@ -1,0 +1,40 @@
+version: '3.7'
+services:
+  popularDownloads:
+    container_name: popularDownloads
+    build: .
+    environment:
+      - REDIS_URL=redis-spd:6379
+    networks:
+      - redis-net
+    depends_on:
+      - redis-spd
+    deploy:
+      replicas: 1
+      restart_policy:
+        condition: on-failure
+
+  redis-spd:
+    container_name: redis-spd
+    image: redis:4.0.14-alpine
+    command: ["redis-server", "--appendonly", "yes"]
+    hostname: redis-spd
+    ports:
+      - "6379:6379"
+    networks:
+      - redis-net
+    volumes:
+      - redis-data:/data
+    deploy:
+      replicas: 1
+      update_config:
+        parallelism: 2
+        delay: 10s
+      restart_policy:
+        condition: on-failure
+
+networks:
+  redis-net:
+
+volumes:
+  redis-data:

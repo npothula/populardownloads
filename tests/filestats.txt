@@ -1,0 +1,18 @@
+curl -i http://34.71.214.77/artifactory/api/storage/jcenter-cache/org/apache/maven/surefire/surefire-booter/2.12.4/surefire-booter-2.12.4.pom?stats -uadmin:DVa6YmM5uS
+HTTP/1.1 200 OK
+Date: Sun, 22 Mar 2020 12:52:34 GMT
+Content-Type: application/vnd.org.jfrog.artifactory.storage.StatsInfo+json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Server: Artifactory/6.16.0
+X-Artifactory-Id: a37313bb50ed809dd5a7d66de2f29bcba587bd05
+X-Artifactory-Node-Id: node-ef348699c89f
+
+{
+  "uri" : "http://34.71.214.77:80/artifactory/jcenter-cache/org/apache/maven/surefire/surefire-booter/2.12.4/surefire-booter-2.12.4.pom",
+  "downloadCount" : 3,
+  "lastDownloaded" : 1555974338413,
+  "lastDownloadedBy" : "anonymous",
+  "remoteDownloadCount" : 0,
+  "remoteLastDownloaded" : 0
+}
