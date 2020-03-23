@@ -8,18 +8,11 @@ pipeline {
        stage('Build') {
            steps {
                sh 'docker-compose -f "docker-compose.yml" build'
-               sh 'docker-compose -f "docker-compose.yml" push'
            }
        }
        stage('Publish') {
            steps{
-               script {
-                   def appimage = docker.build registry + ":$BUILD_NUMBER"
-                   docker.withRegistry( '', registryCredential ) {
-                       appimage.push()
-                       appimage.push('latest')
-                   }
-               }
+               sh 'docker-compose -f "docker-compose.yml" push'
            }
        }
    }

@@ -1,7 +1,7 @@
 version: '3.7'
 services:
   populardownloads:
-    image: '${registry}/jfrog-test/populardownloads-${BUILD_NUMBER}:latest'
+    image: '${registry}:jfrog-test_populardownloads-${BUILD_NUMBER}'
     build: .
     ports:
       - '8081:8080'
