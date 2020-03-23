@@ -12,7 +12,6 @@ pipeline {
        }
        stage('Publish') {
            steps{
-               sh 'docker login docker.io'
                sh 'docker-compose -f "docker-compose.yml" push'
            }
        }
