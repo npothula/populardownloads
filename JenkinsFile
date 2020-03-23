@@ -1,12 +1,12 @@
 pipeline {
    agent any
    environment {
-       registry = "registry"
+       registry = 'npothula/naga-docker-hub'
    }
    stages {
        stage('Build') {
            steps {
-               sh 'docker-compose -f "docker-compose.yml" up -d --build'
+               sh 'docker-compose -f "docker-compose.yml" -d --build'
            }
        }
        stage('Publish') {
