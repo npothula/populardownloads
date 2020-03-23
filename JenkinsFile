@@ -13,6 +13,7 @@ pipeline {
            }
            steps {
                // Create our project directory.
+               sh 'whoami'
                sh 'cd ${GOPATH}/src'
                sh 'mkdir -p ${GOPATH}/src/populardownloads'
                // Copy all files in our Jenkins workspace to our project directory.

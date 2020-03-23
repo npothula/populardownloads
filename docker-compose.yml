@@ -1,8 +1,10 @@
 version: '3.7'
 services:
-  popularDownloads:
-    container_name: popularDownloads
+  populardownloads:
+    container_name: jt
     build: .
+    ports:
+      - '8081:8080'
     environment:
       - REDIS_URL=redis-spd:6379
     networks:
