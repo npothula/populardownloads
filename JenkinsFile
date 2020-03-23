@@ -1,7 +1,7 @@
 pipeline {
    agent any
    environment {
-       registry = 'npothula/naga-docker-hub'
+       registry = 'npothula/docker-hub'
        registryCredential = 'dockerhub'
    }
    stages {
