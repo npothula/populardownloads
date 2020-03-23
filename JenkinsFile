@@ -10,8 +10,6 @@ pipeline {
            }
        }
        stage('Test') {
-           steps {
-           }
        }
        stage('Publish') {
            environment {
