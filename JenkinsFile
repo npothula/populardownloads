@@ -9,8 +9,6 @@ pipeline {
                sh 'docker-compose -f "docker-compose.yml" up -d --build'
            }
        }
-       stage('Test') {
-       }
        stage('Publish') {
            environment {
                registryCredential = 'dockerhub'
