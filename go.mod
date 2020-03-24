@@ -7,5 +7,5 @@ require (
 	github.com/go-redis/redis/v7 v7.2.0
 	github.com/golang/gddo v0.0.0-20200310004957-95ce5a452273
 	github.com/gorilla/mux v1.7.4
-	golang.org/x/sys v0.0.0-20200321134203-328b4cd54aae // indirect
+	golang.org/x/sys v0.0.0-20200323222414-85ca7c5b95cd // indirect
 )
