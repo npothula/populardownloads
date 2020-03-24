@@ -2,18 +2,17 @@ package evaluatedownloads
 
 import (
 	"bytes"
-	"fmt"
-	"net/http"
-	"os"
 	"encoding/base64"
-	"log"
-	"net/url"
 	"encoding/json"
+	"fmt"
+	"log"
+	"net/http"
+	"net/url"
+	"os"
 	"strings"
 
 	"jfrog-test/src/common"
 )
-
 
 func basicAuth(username, password string) string {
 	auth := fmt.Sprintf("%s:%s", username, password)
@@ -23,10 +22,10 @@ func basicAuth(username, password string) string {
 
 func getSecurityToken() string {
 	// getting username and password from environemnt variable is temporary workaround
-	userName := os.Getenv("JFROG_ARTIFACTORY_USER");
-	password := os.Getenv("JFROG_ARTIFACTORY_PASSWORD");
-	if (userName == "" || password == "") {
-	  panic("Failed to get credentials");
+	userName := os.Getenv("JFROG_ARTIFACTORY_USER")
+	password := os.Getenv("JFROG_ARTIFACTORY_PASSWORD")
+	if userName == "" || password == "" {
+		panic("Failed to get credentials")
 	}
 
 	// curl -u <user>:<pwd> -iX POST http://34.71.214.77/artifactory/api/security/token
@@ -36,10 +35,10 @@ func getSecurityToken() string {
 	data.Set("username", userName)
 	data.Add("scope", "member-of-groups:readers")
 
-	url := fmt.Sprintf("%s%s", os.Getenv("JFROG_ARTIFACTORY_URL"), "/api/security/token");
+	url := fmt.Sprintf("%s%s", os.Getenv("JFROG_ARTIFACTORY_URL"), "/api/security/token")
 
 	req, err := http.NewRequest("POST", url, bytes.NewBufferString(data.Encode()))
-	req.Header.Add("Authorization","Basic " + basicAuth(userName, password))
+	req.Header.Add("Authorization", "Basic "+basicAuth(userName, password))
 	req.Header.Set("Content-Type", "application/x-www-form-urlencoded; param=value")
 
 	client := &http.Client{}
@@ -53,7 +52,7 @@ func getSecurityToken() string {
 	json.NewDecoder(resp.Body).Decode(&tokenInfo)
 	accessToken := tokenInfo["access_token"].(string)
 	//log.Println(accessToken)
-	return accessToken;
+	return accessToken
 }
 
 func getArtifactsList(token string, repoKey string) []interface{} {
@@ -72,7 +71,7 @@ func getArtifactsList(token string, repoKey string) []interface{} {
 	if token == "" {
 		userName := os.Getenv("JFROG_ARTIFACTORY_USER")
 		password := os.Getenv("JFROG_ARTIFACTORY_PASSWORD")
-		req.Header.Add("Authorization","Basic " + basicAuth(userName, password))
+		req.Header.Add("Authorization", "Basic "+basicAuth(userName, password))
 	} else {
 		bearerToken := fmt.Sprintf("%s%s", "Bearer ", token)
 		req.Header.Set("Authorization", bearerToken)
@@ -93,7 +92,6 @@ func getArtifactsList(token string, repoKey string) []interface{} {
 	return artifacts["results"].([]interface{})
 }
 
-
 func getFileStats(token string, fileURI string) int64 {
 	if fileURI == "" {
 		panic("Invalid Params")
@@ -108,7 +106,7 @@ func getFileStats(token string, fileURI string) int64 {
 	if token == "" {
 		userName := os.Getenv("JFROG_ARTIFACTORY_USER")
 		password := os.Getenv("JFROG_ARTIFACTORY_PASSWORD")
-		req.Header.Add("Authorization","Basic " + basicAuth(userName, password))
+		req.Header.Add("Authorization", "Basic "+basicAuth(userName, password))
 	} else {
 		bearerToken := fmt.Sprintf("%s%s", "Bearer ", token)
 		req.Header.Set("Authorization", bearerToken)
@@ -134,7 +132,7 @@ func getFileStats(token string, fileURI string) int64 {
 	return downloadCount
 }
 
-func processPopularDownloads(topK int, accessToken string, fileURI string, maxHeap *common.MaxHeap)  {
+func processPopularDownloads(topK int, accessToken string, fileURI string, maxHeap *common.MaxHeap) {
 	if accessToken == "" {
 		panic("Invalid Params")
 	}
@@ -174,7 +172,6 @@ func EvaluatePopularDownloads(topK int, repoKey string, typeRepoNFileTypes map[s
 	// TODO: save maxHeap into Redis
 	// UpdatePopularDownloadsIntoRedis
 }
-
 
 func evaluatedownloadsDemo() {
 	repoKey := "jcenter-cache"
